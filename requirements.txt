@@ -1,0 +1,6 @@
+streamlit
+langchain
+pandas
+chromadb
+groq
+python-dotenv

@@ -4,4 +4,4 @@ pandas
 chromadb
 groq
 python-dotenv
-langchain-community
+langchain_community
